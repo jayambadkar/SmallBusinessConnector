@@ -30,7 +30,7 @@ If you get stuck, please refer to the enhanced instructions available [here](htt
 ## Small Business Connector | About 
 Thanks for using the service. Here you can add in your own business' details, some info about you and the folks you work with in order to connect with other like-minded people with suggestions driven by the AIP by leveraging the semantics around your business.
 
-This is completely open source, so that there is full transparency and you know we're not misusing any of your data.
+This app is completely opt-in for companies and founders, plus the nature of it being open source reassures users that their data will not be misappropriated.
 
 ---
 
