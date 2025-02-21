@@ -1,6 +1,6 @@
 # Small Business Conector
 
-Watch the demo on [YouTube](https://www.youtube.com/watch?v=8cXdBcJWSJg)
+Watch the demo on [YouTube](https://www.youtube.com/watch?v=8cXdBcJWSJg).
 
 ALL PACKAGED DATA IS NOTIONAL. ANY RESEMBLANCE TO REAL ENTITIES IS INCIDENTAL AND NOT AN INTENDED CONSEQUENCE OF THE BUILDING OF THIS APPLICATION.
 
