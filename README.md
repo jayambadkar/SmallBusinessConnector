@@ -1,4 +1,4 @@
-# Small Business Conector
+# Small Business Connector
 
 Watch the demo on [YouTube](https://www.youtube.com/watch?v=8cXdBcJWSJg).
 
